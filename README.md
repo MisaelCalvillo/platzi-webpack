@@ -26,3 +26,10 @@ WP es developer experience.
 
 ## Entry Points
 Nuestro módulo principal, de donde se parte a importar los demás módulos. Este es el archivo que leerá webpack para generar el bundle
+
+### Instalación de CLI
+Arriba de la versión de Webpack 4 se tiene que instalar el CLI por separado
+
+``` bash
+npm install --save-dev webpack-cli
+```
