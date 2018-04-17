@@ -1,0 +1,22 @@
+{
+  "name": "platzi-webpack",
+  "version": "1.0.0",
+  "description": "Este es un curso de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaelCalvillo/platzi-webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Misael Calvillo Mancilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MisaelCalvillo/platzi-webpack/issues"
+  },
+  "homepage": "https://github.com/MisaelCalvillo/platzi-webpack#readme"
+}
