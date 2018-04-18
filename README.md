@@ -33,3 +33,5 @@ Arriba de la versión de Webpack 4 se tiene que instalar el CLI por separado
 ``` bash
 npm install --save-dev webpack-cli
 ```
+#### Crear un archivo webpack.config.js 
+En este archivo se va a escribir la configuración de Webpack.
