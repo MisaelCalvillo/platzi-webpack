@@ -15,7 +15,7 @@ module.exports = {
         // use: que loader se va a encargar del archivo
         test: /\.css$/,
         use: ExtractTextPlugin.extract({
-          // ['style-loader','css-loader'],
+          // ['style-loader','css-loader']
           // fallback: "style-loader",
           use: "css-loader"
         })
@@ -24,7 +24,7 @@ module.exports = {
   },
   plugins: [
     // aqui van los plugins
-    new ExtractTextPlugin("css/styles.css")
+    new ExtractTextPlugin("css/[name].css")
   ]
 }
 
